@@ -1,4 +1,3 @@
 # C-learning-netnotes
-
-#scanf函数详解
-#https://blog.csdn.net/21aspnet/article/details/174326
+“知识，要用时再去找”
+这个库用来记录在网络上的易读而实用的C语言学习教程/细节解析，以方便C语言的学习/复习

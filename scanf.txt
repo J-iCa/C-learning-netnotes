@@ -1,0 +1,2 @@
+C语言scanf函数详细解释
+:https://blog.csdn.net/21aspnet/article/details/174326
